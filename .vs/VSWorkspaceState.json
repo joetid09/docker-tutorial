@@ -1,8 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\app"
+    "\\app",
+    "\\app\\src",
+    "\\app\\src\\static",
+    "\\app\\src\\static\\js"
   ],
-  "SelectedNode": "\\app\\package.json",
+  "SelectedNode": "\\app\\src\\static\\js\\app.js",
   "PreviewInSolutionExplorer": false
 }
