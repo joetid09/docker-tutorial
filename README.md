@@ -20,6 +20,7 @@
         <li>Create mysql container</li>
         <li>used the new network to connect app to new container</li>
         <li>persisted dated that was created from the app into the mysql database!</li>
+        <li>Created Docker-Compose file and had it create a docker app for the db and the application</li>
     </ol>
     </div>
 </div>
