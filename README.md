@@ -7,6 +7,20 @@
     <br>
     <h3>Why?</h3>
     <p>In <a href="https://github.com/joetid09/WorthATri">this project repository</a> the application will be containerized, with a PostgrSQL database and Joplin server.
-        this Tutorial has been walking me through how to use docker in general as well as setting up a network between multiple containers application and database containers.
+        this Tutorial has been walking me through how to use docker in general as well as setting up a network between multiple containers application and database containers.</p>
+    <div>
+    <ol>
+        <lh>12/15/2021</lh>
+        <li>created a network to host two separate containers</li>
+        <li>Mounted application to an external .sqlite db</li>
+        <li>Created named volumes</li>
+    </ol>
+    <ol>
+        <lh>12/16/2021</lh>
+        <li>Create mysql container</li>
+        <li>used the new network to connect app to new container</li>
+        <li>persisted dated that was created from the app into the mysql database!</li>
+    </ol>
+    </div>
 </div>
 </body>
